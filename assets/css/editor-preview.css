@@ -129,7 +129,7 @@ html.elementor-html {
     color: #f00; }
 .elementor-editor-active #elementor .elementor-editor-column-settings {
   left: -1px;
-  z-index: 1;
+  z-index: 3;
   bottom: 100%;
   margin-bottom: 1px;
   -webkit-transform: translateY(1px);
